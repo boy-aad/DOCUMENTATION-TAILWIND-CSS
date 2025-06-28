@@ -157,3 +157,8 @@ Utilisation :
 </body>
 </html>
 ```
+# ✍️ Auteur : 
+
+# Abdoul Aziz DIALLO – Étudiant en Informatique dev web/mob
+## Contact : diallo.abdoulaziz0202@gmail.com
+### Github : https://github.com/boy-aad
